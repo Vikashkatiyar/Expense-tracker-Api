@@ -1,4 +1,4 @@
-# expense-tracker-api
+# BudgetFlow (expense-tracker-api)
 
 REST API for tracking expenses.
 
